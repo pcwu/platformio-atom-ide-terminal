@@ -149,42 +149,42 @@ module.exports =
               title: 'Black'
               description: 'Black color used for terminal ANSI color set.'
               type: 'color'
-              default: '#000000'
+              default: '#282c34'
             red:
               title: 'Red'
               description: 'Red color used for terminal ANSI color set.'
               type: 'color'
-              default: '#CD0000'
+              default: '#e88388'
             green:
               title: 'Green'
               description: 'Green color used for terminal ANSI color set.'
               type: 'color'
-              default: '#00CD00'
+              default: '#a7cc8c'
             yellow:
               title: 'Yellow'
               description: 'Yellow color used for terminal ANSI color set.'
               type: 'color'
-              default: '#CDCD00'
+              default: '#dbaa79'
             blue:
               title: 'Blue'
               description: 'Blue color used for terminal ANSI color set.'
               type: 'color'
-              default: '#0000CD'
+              default: '#72bef2'
             magenta:
               title: 'Magenta'
               description: 'Magenta color used for terminal ANSI color set.'
               type: 'color'
-              default: '#CD00CD'
+              default: '#d291e4'
             cyan:
               title: 'Cyan'
               description: 'Cyan color used for terminal ANSI color set.'
               type: 'color'
-              default: '#00CDCD'
+              default: '#65c2cd'
             white:
               title: 'White'
               description: 'White color used for terminal ANSI color set.'
               type: 'color'
-              default: '#E5E5E5'
+              default: '#b9c0cb'
         zBright:
           type: 'object'
           order: 2
@@ -193,42 +193,42 @@ module.exports =
               title: 'Bright Black'
               description: 'Bright black color used for terminal ANSI color set.'
               type: 'color'
-              default: '#7F7F7F'
+              default: '#6f7783'
             brightRed:
               title: 'Bright Red'
               description: 'Bright red color used for terminal ANSI color set.'
               type: 'color'
-              default: '#FF0000'
+              default: '#e88388'
             brightGreen:
               title: 'Bright Green'
               description: 'Bright green color used for terminal ANSI color set.'
               type: 'color'
-              default: '#00FF00'
+              default: '#a7cc8c'
             brightYellow:
               title: 'Bright Yellow'
               description: 'Bright yellow color used for terminal ANSI color set.'
               type: 'color'
-              default: '#FFFF00'
+              default: '#dbaa79'
             brightBlue:
               title: 'Bright Blue'
               description: 'Bright blue color used for terminal ANSI color set.'
               type: 'color'
-              default: '#0000FF'
+              default: '#72bef2'
             brightMagenta:
               title: 'Bright Magenta'
               description: 'Bright magenta color used for terminal ANSI color set.'
               type: 'color'
-              default: '#FF00FF'
+              default: '#d291e4'
             brightCyan:
               title: 'Bright Cyan'
               description: 'Bright cyan color used for terminal ANSI color set.'
               type: 'color'
-              default: '#00FFFF'
+              default: '#65c2cd'
             brightWhite:
               title: 'Bright White'
               description: 'Bright white color used for terminal ANSI color set.'
               type: 'color'
-              default: '#FFFFFF'
+              default: '#ffffff'
     iconColors:
       type: 'object'
       order: 5
