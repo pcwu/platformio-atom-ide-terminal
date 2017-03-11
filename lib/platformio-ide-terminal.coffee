@@ -117,7 +117,7 @@ module.exports =
           title: 'Theme'
           description: 'Select a theme for the terminal.'
           type: 'string'
-          default: 'standard'
+          default: 'dracula'
           enum: [
             'standard',
             'inverse',
