@@ -112,7 +112,7 @@ module.exports =
           title: 'Default Panel Height'
           description: 'Default height of a terminal panel. **You may enter a value in px, em, or %.**'
           type: 'string'
-          default: '300px'
+          default: '80px'
         theme:
           title: 'Theme'
           description: 'Select a theme for the terminal.'
